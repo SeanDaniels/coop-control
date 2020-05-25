@@ -1,0 +1,9 @@
+The strip is: WS2812B
+Strip info:
+Type - WS2812B
+Size - 3.3 Ft
+# LEDs - 60
+Watts/LED - .3W
+
+General Board Info:
+Referring to pin map, use IO pin info, not 'D' pin info
